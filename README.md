@@ -12,7 +12,7 @@ This project is a simple Weather Application created using HTML, CSS, and JavaSc
 
 Technologies Used:
 
-HTML5 – Structure of the app
-CSS3 – Styling and layout
+HTML – Structure of the app
+CSS – Styling and layout
 JavaScript – Fetch API, DOM manipulation, and logic
 WeatherAPI – Source of real-time weather data
