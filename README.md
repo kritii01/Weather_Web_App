@@ -3,16 +3,16 @@ This project is a simple Weather Application created using HTML, CSS, and JavaSc
 
  Features:
 
-🔍 Search weather by city name
-🌡 Displays current temperature and feels-like temperature
-⛅ Shows weather condition with dynamic icons
-💧 Provides humidity percentage
-🌬 Displays wind speed in kph
-❌ Error message for invalid or unknown city names
+   Search weather by city name
+   Displays current temperature 
+   Shows weather condition with icons
+   Provides humidity percentage
+   Displays wind speed
+   Error message for invalid or unknown city names
 
 Technologies Used:
 
-HTML – Structure of the app
-CSS – Styling and layout
-JavaScript – Fetch API, DOM manipulation, and logic
-WeatherAPI – Source of real-time weather data
+   HTML – Structure of the app
+   CSS – Styling and layout
+   JavaScript – Fetch API, DOM manipulation, and logic
+   WeatherAPI – Source of real-time weather data
