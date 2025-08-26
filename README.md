@@ -14,5 +14,5 @@ Technologies Used:
 
 HTML5 – Structure of the app
 CSS3 – Styling and layout
-JavaScript (ES6) – Fetch API, DOM manipulation, and logic
+JavaScript – Fetch API, DOM manipulation, and logic
 WeatherAPI – Source of real-time weather data
